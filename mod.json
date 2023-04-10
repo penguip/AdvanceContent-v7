@@ -1,8 +1,8 @@
 {
-	"name": "AdvanceContent",
-	"displayName": "[white]Advance [#a9d8ff]Content",
-        "minGameVersion"' "136"
-	"author":"EoD",
-	"description": "Gives you 40+ turrets, 10+ units and alot more.\n[accent]made by Advance Creations Corporation, serving multiverses wide.[]",
+	"name": "Advance Content Reborn",
+	"displayName": "[white]Advance [#a9d8ff]Content []Reborn",
+        "minGameVersion" "136",
+	"author":"penguip",
+	"description": "An eventual recreation of what was probably mindustry's biggest mod, for v7"
 	"version": "1.9.2 Final Major Update"
 }
