@@ -7,7 +7,7 @@
 	},
 	"category": "units",
 	"research": "tetrative-reconstructor",
-        "plans":
+        "plans": [
              "unit": "claymore"
 	     "items": [
 		{ "item": "lead", "amount": 400 },
@@ -17,7 +17,7 @@
 		{ "item": "plastanium", "amount": 630 },
 		{ "item": "phase-fabric", "amount": 280 },
 	     ]
-        ]
+           ]
         "requirements": [
 		{ "item": "lead", "amount": 400 },
 		{ "item": "graphite", "amount": 300 },
