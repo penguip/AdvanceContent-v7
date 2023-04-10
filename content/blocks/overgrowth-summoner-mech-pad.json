@@ -20,7 +20,7 @@
 		{ "item": "advance-alloy", "amount": 480 }
 	]
         ]
-        requirements": [
+        "requirements": [
 		{ "item": "lead", "amount": 1250 },
 		{ "item": "graphite", "amount": 850 },
 		{ "item": "silicon", "amount": 1300 },
@@ -29,5 +29,6 @@
 		{ "item": "thorium", "amount": 1750 },
 		{ "item": "surge-alloy", "amount": 420 },
 		{ "item": "advance-alloy", "amount": 480 }
-}       ]
+        ]
+}       
 
