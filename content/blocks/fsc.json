@@ -25,6 +25,6 @@
 	],
 	"category": "crafting",
 	"research": "fst",
-	"idleSound": "respawning",
+	"idleSound": "techloop",
 	"idleSoundVolume": 0.7
 }
