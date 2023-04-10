@@ -7,7 +7,9 @@
 	},
 	"category": "upgrade",
 	"research": "omega-mech-pad",
-	"requirements": [
+        "plans: [
+             "unit": overgrowth-summoner
+	     "items": [
 		{ "item": "lead", "amount": 1250 },
 		{ "item": "graphite", "amount": 850 },
 		{ "item": "silicon", "amount": 1300 },
@@ -17,4 +19,15 @@
 		{ "item": "surge-alloy", "amount": 420 },
 		{ "item": "advance-alloy", "amount": 480 }
 	]
-}
+        ]
+        requirements": [
+		{ "item": "lead", "amount": 1250 },
+		{ "item": "graphite", "amount": 850 },
+		{ "item": "silicon", "amount": 1300 },
+		{ "item": "titanium", "amount": 1950 },
+		{ "item": "plastanium", "amount": 1250 },
+		{ "item": "thorium", "amount": 1750 },
+		{ "item": "surge-alloy", "amount": 420 },
+		{ "item": "advance-alloy", "amount": 480 }
+}       ]
+
