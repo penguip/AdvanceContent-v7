@@ -9,7 +9,7 @@
 		{ "item": "graphite", "amount": 150 },
 		{ "item": "metaglass", "amount": 150 }
 	],
-	"conditionWave": 30,
+	"captureWave": 30,
 	"launchPeriod": 15,
 	"requirements": [
 		{
