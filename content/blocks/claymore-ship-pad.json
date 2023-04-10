@@ -5,7 +5,7 @@
 	"consumes": {
 		"power": 1.7
 	},
-	"category": "upgrade",
+	"category": "units",
 	"research": "tetrative-reconstructor",
         "plans":
              "unit": "claymore"
