@@ -28,6 +28,6 @@
 	],
 	"category": "crafting",
 	"research": "alloy-smelter",
-	"ambientSound": "respawning",
+	"ambientSound": "techloop",
 	"ambientSoundVolume": 0.6
 }
