@@ -5,10 +5,10 @@
 	"consumes": {
 		"power": 4.8
 	},
-	"category": "upgrade",
+	"category": "units",
 	"research": "omega-mech-pad",
-        "plans: [
-             "unit": overgrowth-summoner
+        "plans": [
+             "unit": "overgrowth-summoner"
 	     "items": [
 		{ "item": "lead", "amount": 1250 },
 		{ "item": "graphite", "amount": 850 },
