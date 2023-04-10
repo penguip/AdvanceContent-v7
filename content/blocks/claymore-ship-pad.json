@@ -6,8 +6,10 @@
 		"power": 1.7
 	},
 	"category": "upgrade",
-	"research": "blade-ship-pad",
-	"requirements": [
+	"research": "tetrative-reconstructor",
+        "plans":
+             "unit": "claymore"
+	     "items": [
 		{ "item": "lead", "amount": 400 },
 		{ "item": "graphite", "amount": 300 },
 		{ "item": "silicon", "amount": 570 },
