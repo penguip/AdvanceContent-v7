@@ -16,7 +16,7 @@
 		{ "item": "titanium", "amount": 630 },
 		{ "item": "plastanium", "amount": 630 },
 		{ "item": "phase-fabric", "amount": 280 },
-	]
+	     ]
         ]
         "requirements": [
 		{ "item": "lead", "amount": 400 },
