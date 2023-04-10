@@ -13,14 +13,12 @@
 	"launchPeriod": 15,
 	"requirements": [
 		{
-			"type": "ZoneWave",
-			"zone": "tarFields",
-			"wave": 70
+			"type": "SectorCapture",
+			"sector": "tarFields,
 		},
 		{
-			"type": "ZoneWave",
-			"zone": "desolateRift",
-			"wave": 30
+			"type": "SectorCapture",
+			"sector": "desolateRift",
 		},
 		{
 			"type": "Unlock",
